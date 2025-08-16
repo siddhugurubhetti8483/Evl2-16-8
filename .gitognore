@@ -1,0 +1,21 @@
+#IDE files
+.idea
+.vscode.iml.classpath
+.path
+.project
+.settings
+
+#Build
+target/
+bin/
+out/
+
+#logs
+.log
+
+#system
+.DS_Store
+Thumb.db
+
+#Temporary
+*.tmp

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="DevCon2025 Suite">
+    <test name="Tests">
+        <classes>
+             <class name="com.devcon25.tests.RegistrationTests"/>
+             <class name="com.devcon25.tests.AllTests"/>
+        </classes>
+    </test>
+</suite>
